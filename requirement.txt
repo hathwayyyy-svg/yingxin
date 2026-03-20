@@ -1,2 +1,5 @@
-streamlit
-openpyxl
+
+streamlit==1.32.0
+pandas==2.2.2
+openpyxl==3.1.2
+xlsxwriter==3.2.0
